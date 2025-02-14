@@ -1,5 +1,6 @@
 [UHC]
 HT1
+HalfTheDev
 
 LT1
 
@@ -11,12 +12,7 @@ HT3
 
 
 LT3
-HalfTheDev
 Flame
-DarkNessCIA
-2slemon
-Karmaa3429
-chubbsge
 
 HT4
 
