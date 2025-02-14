@@ -3,8 +3,11 @@ HT1
 Lemon
 
 LT1
+Karma
+HalfTheDev
 
 HT2
+Flame
 
 LT2
 
