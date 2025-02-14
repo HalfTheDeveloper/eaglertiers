@@ -6,9 +6,10 @@ LT1
 Karmaa3429
 
 HT2
+DarknessCIA
+Flame
 
 LT2
-Flame
 
 HT3
 
