@@ -13,6 +13,7 @@ HT3
 ElectricBrick
 
 LT3
+Sussytech
 
 HT4
 Storm King
