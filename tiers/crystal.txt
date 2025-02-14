@@ -3,42 +3,35 @@ HT1
 Karmaa3429
 
 LT1
-HalfTheDev
-Chubbsge
-Flame
+chubbsge
 
 HT2
+HalfTheDev
 
 LT2
-2Slemon
+2slemon
 DarkNessCIA
 VOP121
 
 HT3
-Luvsyawn
-Trith1234_
+luvsyawn
+Tirth1234_
+Flame
 
 LT3
-Lowerable
 sysmint
-SussyTech
+sussytech
 
 HT4
-DhyeyBG
-@@ -31,16 +49,33 @@ smint
+cinamarol
 jacovluck
 Stormking_
 Executer
 
 LT4
-Clownpierce343
-AzureX
-W1ther
 
 HT5
-boronz_gamer
 TheRealHaydynn
 Shusuke
 
 LT5
-j4y
