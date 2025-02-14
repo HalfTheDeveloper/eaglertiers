@@ -1,5 +1,6 @@
 [NETHPOT]
 HT1
+HalfTheDev
 
 LT1
 
@@ -11,10 +12,6 @@ HT3
 ElectricBrick
 
 LT3
-Karmaa3429
-DarkNessCIA
-HalfTheDev
-2slemon
 
 HT4
 Storm King
