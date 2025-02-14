@@ -1,6 +1,6 @@
 [SMP]
 HT1
-
+HalfTheDev
 LT1
 
 HT2
@@ -11,11 +11,7 @@ HT3
 
 LT3
 Flame
-chubbsge
-Karmaa3429
-HalfTheDev
-DarkNessCIA
-2slemon
+
 HT4
 
 LT4
