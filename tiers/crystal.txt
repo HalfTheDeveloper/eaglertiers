@@ -21,6 +21,7 @@ Flame
 LT3
 sysmint
 sussytech
+Lariixd
 
 HT4
 cinamarol
