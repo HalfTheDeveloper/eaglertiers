@@ -1,5 +1,6 @@
 [SWORD]
 HT1
+HalfTheDev
 
 LT1
 
@@ -11,12 +12,6 @@ LT2
 HT3
 
 LT3
-Jacovluck
-Karmaa3429
-HalfTheDev
-DarkNessCIA
-2slemon
-Flame
 
 HT4
 
