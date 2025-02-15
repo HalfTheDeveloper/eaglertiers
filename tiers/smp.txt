@@ -1,6 +1,6 @@
 [SMP]
 HT1
-HalfTheDev
+
 LT1
 
 HT2
@@ -8,10 +8,12 @@ HT2
 LT2
 
 HT3
-Flame
 
 LT3
 bringlose2u
+Flame
+HalfTheDev
+Karmaa3429
 
 HT4
 
