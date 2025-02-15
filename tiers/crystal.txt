@@ -1,31 +1,35 @@
 [CRYSTAL]
 HT1
-Lemon
+Karmaa3429
 
 LT1
-Karmaa3429
-HalfTheDev
 
 HT2
-Flame
+2slemon
 
 LT2
+2slemon
 
 HT3
-lariixd
-sussytech
+luvsyawn
+Flame
+VOP121
 
 LT3
 Executer
 YeelerYee21
 ClownPierce434
+Lariixd
 
 HT4
+sussytech
+javovluck
 
 LT4
 
 HT5
+Shusuke
 
 LT5
-brawl_star_og
+Brawl_star_OG
 
