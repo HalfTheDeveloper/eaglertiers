@@ -6,86 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Crystal Tier List</title>
     <link rel="stylesheet" href="landing.css">
-    <style>
-        body {
-            background-color: #121822;
-            margin: 0;
-            padding: 0;
-        }
+    <link rel="stylesheet" href="tiers.css">
 
-        .tier-container {
-            display: flex;
-            flex-direction: row-reverse; /* Reverses the order of tiers */
-            gap: 2px;
-            margin-top: 20px;
-        }
-
-        .tier {
-            flex: 1;
-            background-color: rgba(20, 27, 38, 0.8);
-            backdrop-filter: blur(5px);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            padding: 10px;
-            min-width: 200px;
-        }
-
-        .tier-header {
-            background-color: #1e2837;
-            padding: 10px;
-            text-align: center;
-            color: #E7E7E7;
-            border-radius: 4px 4px 0 0;
-            margin-bottom: 10px;
-        }
-
-        .tier-1 .tier-header { background-color: #705c28; }
-        .tier-2 .tier-header { background-color: #515151; }
-        .tier-3 .tier-header { background-color: #634632; }
-        .tier-4 .tier-header { background-color: #1e2837; }
-        .tier-5 .tier-header { background-color: #1e2837; }
-
-        .players-list {
-            display: flex;
-            flex-direction: column;
-            gap: 4px;
-        }
-
-        .player {
-            padding: 8px;
-            background-color: #1f2937;
-            color: #E7E7E7;
-            border-radius: 4px;
-            font-size: 14px;
-        }
-
-        .player.high-tier {
-            border-left: 3px solid #1e90ff;
-        }
-
-        .player.low-tier {
-            border-left: 3px solid #87cefa;
-        }
-
-        .header {
-            width: 100%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            padding: 10px 20px;
-            background-color: #141b26;
-            position: fixed;
-            top: 0;
-            z-index: 1000;
-        }
-
-        .container {
-            margin-top: 80px;
-            padding: 20px;
-            max-width: 1400px;
-            margin-left: auto;
-            margin-right: auto;
-        }
-    </style>
 </head>
 <body>
 
@@ -107,14 +29,13 @@
             const buttonsContainer = document.getElementById('buttons');
             const tierListElement = document.getElementById('leaderboard');
 
-            // Create navigation buttons
-// Inside your existing script, modify the button creation code:
+
             tierlists.forEach(tier => {
                 const button = document.createElement('button');
                 button.className = 'button';
                 
-                // Add active class if this is the current page
-                if (tier.toLowerCase() === 'crystal') {  // Since we're on crystal.html
+
+                if (tier.toLowerCase() === 'crystal') {
                     button.className += ' active';
                 }
                 
@@ -175,7 +96,6 @@
                     }
                 });
 
-                // Create all tier columns
                 for (let i = 5; i >= 1; i--) {
                     const tierElement = document.createElement('div');
                     tierElement.className = `tier tier-${i}`;

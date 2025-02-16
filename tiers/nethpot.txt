@@ -1,20 +1,25 @@
 [NETHPOT]
 HT1
-HalfTheDev
+
 
 LT1
+Flame
 
 HT2
+HalfTheDev
 
 LT2
 
 HT3
-ElectricBrick
+
 
 LT3
+Sussytech
+ClownPierce434
+ElectricBrick
 
 HT4
-Storm King
+StormKing_
 
 LT4
 
