@@ -1,14 +1,15 @@
 [CRYSTAL]
 HT1
+HalfTheDev
 
 LT1
-HalfTheDev
 Flame
 
 HT2
 
 LT2
 Somecabbagekid
+ItzMax
 
 HT3
 VOP121
@@ -18,10 +19,12 @@ Executer
 YeelerYee21
 ClownPierce434
 Lariixd
+lushiwushi
 
 HT4
 sussytech
 javovluck
+babytite18
 
 LT4
 
